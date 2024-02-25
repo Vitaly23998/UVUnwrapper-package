@@ -7,7 +7,7 @@ namespace UnityEditor
 [ExecuteInEditMode]
 	public class AutoUVUnwrapping : MonoBehaviour
 	{
-		[MenuItem("Utils/Generate Lightmap UVs for Selection")]
+		[MenuItem("Utils/Mesh/Generate Lightmap UVs for Selection")]
 		public static void GenerateLightmapUVs()
 		{
 			GameObject[] selectedObjects = Selection.gameObjects;
