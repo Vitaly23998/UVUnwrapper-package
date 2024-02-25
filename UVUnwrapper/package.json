@@ -1,0 +1,13 @@
+{
+    "name": "utils.vrise.uvunwrapper",
+    "version": "1.0.0",
+    "displayName": "UV Unwrapper",
+    "description": "Generate Lightmap UVs for Selection",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "type": "library",
+    "hideInEditor": false,
+    "dependencies": {
+        
+    }
+}  
